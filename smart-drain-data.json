@@ -1,0 +1,15 @@
+{
+  "sensor": {
+    "waterLevel": 42,
+    "rainIntensity": 72,
+    "timestamp": 0
+  },
+  "system": {
+    "status": "SIAGA",
+    "buzzer": true,
+    "espOnline": true
+  },
+  "gate": {
+    "servoAngle": 45
+  }
+}
